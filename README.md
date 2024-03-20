@@ -23,7 +23,8 @@ Aquí está el diagrama UML de clases para la aplicación:
 
 Este diagrama muestra la estructura de clases de la aplicación, incluyendo las clases principales como `CalculadoraMatematica`, `ArbolBinario`, etc. Proporciona una vista general de cómo se organizan las clases y cómo interactúan entre sí para realizar las operaciones matemáticas y gestionar la interfaz de usuario.
 
-![UML 1 1 1](https://github.com/DannyFlores27/ExpresionMatematicaArbol/assets/126033449/3896a9d3-56fe-495c-b94d-d5be95b08137)
+![UML 1 1 2](https://github.com/DannyFlores27/ExpresionMatematicaArbol/assets/126033449/66574002-d62b-40a8-a46c-ab57e692d29e)
+
 
 ## Tecnologías Utilizadas
 
